@@ -7,17 +7,17 @@ Pancakes are delicious! Let's make them.
 - Flouer
 - Water 
 - Salt
-- Suger
 - Milk 
 - Butter 
 
 # Preparing the batter 
 
 - gooi alles samen en goed roeren 
+- Doe er extra zout bij!
 
 # baking the pancacks
 - Gooi het in de pan 
-
+- serveer met tomaten, komkommer, en vegitarische kaas. 
 
 
 
