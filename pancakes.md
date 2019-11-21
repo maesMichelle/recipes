@@ -1,4 +1,4 @@
-# Pancakes
+# Granma's Pancakes
 
 Pancakes are delicious! Let's make them.
 
