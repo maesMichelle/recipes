@@ -13,7 +13,10 @@ Pancakes are delicious! Let's make them.
 
 # Preparing the batter 
 
-- 
+- gooi alles samen en goed roeren 
+
+# baking the pancacks
+- Gooi het in de pan 
 
 
 
